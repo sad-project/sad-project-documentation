@@ -1,4 +1,4 @@
-# Sprint 1 Report
+# Sprint 1 Planning Report
 
 ## Planning
 In the first stage we planned how to contriute to the project and we decided which members develop each aspect of the project.
