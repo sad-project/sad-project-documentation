@@ -29,4 +29,5 @@ In the end of this stage the chosen members of each aspect is as below:
 We decided to dedicate the first sprint to learning. Hence, in this sprint, each member learn the new and review the old concepts of the frameworks they have to work with through the project.
 
 With respect to the responsibility of the members, we will learn these frameworks:
-*HTML - CSS - Bootstrap - MinIO - PostgreSQL - Docker - Github - Jira
+
+*HTML - CSS - Bootstrap - MinIO - PostgreSQL - Docker - Github - Jira*
