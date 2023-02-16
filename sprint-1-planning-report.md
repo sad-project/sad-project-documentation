@@ -30,4 +30,4 @@ We decided to dedicate the first sprint to learning. Hence, in this sprint, each
 
 With respect to the responsibility of the members, we will learn these frameworks:
 
-*HTML - CSS - Bootstrap - MinIO - PostgreSQL - Docker - Github - Jira*
+*HTML - CSS - Bootstrap - Python - Django - MinIO - PostgreSQL - Docker - Github - Jira*
