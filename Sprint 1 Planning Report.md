@@ -27,16 +27,16 @@ In the end of this stage the chosen members of each aspect is as below:
 Below,you can see some the whole issues and some subtasks.
 
 <img
-  src="/img/Sprint1.png"
+  src="./img/Sprint1.png"
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 <img
-  src="/img/Sprint1 subtask1.png"
+  src="./img/Sprint1 subtask1.png"
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
  <img
-  src="/img/Sprint1 subtask2.png"
+  src="./img/Sprint1 subtask2.png"
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
     
