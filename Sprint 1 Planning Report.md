@@ -24,6 +24,22 @@ In the end of this stage the chosen members of each aspect is as below:
 
 *Parsa Mohammadian - Kahbod Aeini*
 
+Below,you can see some the whole issues and some subtasks.
+
+<img
+  src="/img/Sprint1.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+<img
+  src="/img/Sprint1 subtask1.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+ <img
+  src="/img/Sprint1 subtask2.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+    
 
 ## Learning Required Frameworks
 We decided to dedicate the first sprint to learning. Hence, in this sprint, each member learn the new and review the old concepts of the frameworks they have to work with through the project.
