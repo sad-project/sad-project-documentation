@@ -12,7 +12,7 @@
 - [Velocity](#velocity)
 
 ## Introduction
-In the first stage we planned how to contriute to the project and we decided which members develop each aspect of the project.
+In the first stage we planned how to contribute to the project and we decided which members develop each aspect of the project.
 
 The project consists of three main parts:
 * Front-end
