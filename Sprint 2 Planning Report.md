@@ -25,10 +25,12 @@ Parameters of Goals, Definition of Done and Acceptance Criteria are defined in t
 end of the sprint.
 
 ## Product Backlog
+The following picture is a part of product backlog. Full product backlog is accessbile through [this link](https://sad-project.atlassian.net/jira/software/c/projects/SADP/issues/?filter=allissues).
 
+![Product Backlog](./img/sprint2%20product%20backlog.png)
 
 ## Sprint Backlog
-
+![Sprint Backlog](./img/sprint2%20sprint%20backlog.png)
 
 ## Sprint Goal
 
