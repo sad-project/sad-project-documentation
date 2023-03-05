@@ -43,10 +43,5 @@ Acceptance criteria is specified in every Jira stories.
 Estimation is specified in every Jira stories. 
 
 ## Capacity
-For the first sprint, we decided to work 1 hour per day each for the entire week (no days off). Here is the capacity tracker status:
-
-![Capacity](./img/Sprint1%20capacity.png)
 
 ## Velocity
-The total work in the sprint is 23 hours. So, the velocity is approximately 3.3 hours per day.
-
