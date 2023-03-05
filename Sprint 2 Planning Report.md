@@ -1,6 +1,18 @@
 # Sprint 2 Planning Report
 
-## Planning
+## Table of Contents
+- [Introduction](#introduction)
+- [Product Backlog](#product-backlog)
+- [Sprint Backlog](#sprint-backlog)
+- [Sprint Goal](#sprint-goal)
+- [Definition of Done](#definition-of-done)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Estimation](#estimation)
+- [Capacity](#capacity)
+- [Velocity](#velocity)
+
+## Introduction
+
 After we learned the required framework and prepared ourselves for the project, now we have to start coding.
 
 First thing first, we want to develop the user model and accordingly, we develop login/register page.
@@ -12,4 +24,29 @@ Below, you can see the issues and samples of some subtasks.
 Parameters of Goals, Definition of Done and Acceptance Criteria are defined in the description of each task and we are supposed to meet all the requirements by the
 end of the sprint.
 
-## Contribution
+## Product Backlog
+
+
+## Sprint Backlog
+
+
+## Sprint Goal
+
+
+## Definition of Done
+Definition of done is specified in every Jira stories. 
+
+## Acceptance Criteria
+Acceptance criteria is specified in every Jira stories. 
+
+## Estimation
+Estimation is specified in every Jira stories. 
+
+## Capacity
+For the first sprint, we decided to work 1 hour per day each for the entire week (no days off). Here is the capacity tracker status:
+
+![Capacity](./img/Sprint1%20capacity.png)
+
+## Velocity
+The total work in the sprint is 23 hours. So, the velocity is approximately 3.3 hours per day.
+
