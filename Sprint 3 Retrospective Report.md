@@ -1,4 +1,4 @@
-# Sprint 2 Retrospective Report
+# Sprint 3 Retrospective Report
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,7 +16,7 @@ Fortunately, all the stories were completed in this sprint.
 
 ## Work Logs
 All the work logs can be observed from sub-tasks of each story. The total work log statistics is shown bellow.
-![Work Logs](./img/Sprint2%20worklog.png)
+![Work Logs](./img/Sprint3%20worklog.png)
 
 ## Lessons Learned
 We have learned that System Analysis and Design is a pleasnig course and we can learn so much engineering ad soft skills doing the course project.
