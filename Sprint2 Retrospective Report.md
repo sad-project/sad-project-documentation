@@ -19,8 +19,7 @@ Fortunately, all the stories were completed in this sprint.
 
 ## Work Logs
 All the work logs can be observed from sub-tasks of each story. The total work log statistics is shown bellow.
-
-
+![Work Logs](./img/Sprint2%20worklog.png)
 
 ## Things can be done better in the next sprints
 Planning can be improved if we think more about detailes of the implementation. So, we try to increase time of planning session in the next sprint to lessen the probabilty of plan changing.
