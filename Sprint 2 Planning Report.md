@@ -33,7 +33,14 @@ The following picture is a part of product backlog. Full product backlog is acce
 ![Sprint Backlog](./img/sprint2%20sprint%20backlog.png)
 
 ## Sprint Goal
+The main goal for this sprint is to handle most of the features of the library, in addition to user handeling and registeration, logging in and logging out.
 
+We dedicate each stor to one of the mentioned features and we can summerize the sprint goal as below:
+- User Handeling
+- Create Library Page
+- Add Library Feature
+- Database Setup
+- MinIO Preparation
 
 ## Definition of Done
 Definition of done is specified in every Jira stories. 
@@ -44,6 +51,5 @@ Acceptance criteria is specified in every Jira stories.
 ## Estimation
 Estimation is specified in every Jira stories. 
 
-## Capacity
-
 ## Velocity
+The total work in the sprint is 30 hours. So, the velocity is approximately 4.2 hours per day.
