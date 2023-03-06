@@ -13,42 +13,18 @@
 - [Velocity](#velocity)
 
 ## Introduction
-In the final sprint we are going to add upload, download, and share files attributes to the project.
+We need to finish the project in this project and review and test it.
 
-The project consists of three main parts:
-* Front-end
-* Back-end
-* Infrastructure
-
-**Front-end**
-
-*Mohammadreza Daviran - Matin Moradi - Sara Azarnoosh - Mana Peirovian*
-
-**Back-end**
-
-*Parsa Mohammadian - Kahbod Aeini - Mohammadreza Daviran - Matin Moradi*
-
-**Infrastructure**
-
-*Parsa Mohammadian - Kahbod Aeini*
+All the team members have to check and test the project individually and comment on the implementation of other members. After that, we will change and improve the implementation , if needed.
 
 ## Product Backlog
- [this link]().
 
-![Product Backlog]()
 
 ## Sprint Backlog
-![Sprint Backlog]()
 
 ## Sprint Goal
-
-- HTML/CSS/Bootstrap
-- Python/Django
-- MinIO
-- PostgreSQL
-- Docker
-- Github
-- Jira
+Clearly, goal of this project is to meet all the project requirements and review the code and test the project with various testcases.
+The remaining features that should  be implement in this sprint is to upload, share and download files and also some limitations on file upload, like all the files in a particular library to be the same.
 
 ## Definition of Done
 Definition of done is specified in every Jira stories. 
@@ -65,4 +41,4 @@ For the first sprint, we decided to work 1 hour per day each for the entire week
 ![Capacity]()
 
 ## Velocity
-The total work in the sprint is 23 hours. So, the velocity is approximately 3.3 hours per day.
+The total work in the sprint is 18 hours. So, the velocity is approximately 2.6 hours per day.
