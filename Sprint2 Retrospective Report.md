@@ -23,7 +23,7 @@ All the work logs can be observed from sub-tasks of each story. The total work l
 
 
 ## Things can be done better in the next sprints
-
+Planning can be improved if we think more about detailes of the implementation. So, we try to increase time of planning session in the next sprint to lessen the probabilty of plan changing.
 
 ## Lessons Learned
 We should dedicate more time on the planning, since we changed our database from PostgeSQL to SQLite.
